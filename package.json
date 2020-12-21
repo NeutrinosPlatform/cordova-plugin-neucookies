@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-neucookies",
+  "version": "1.0.0",
+  "description": "Cordova Cookies Plugin",
+  "cordova": {
+    "id": "cordova-plugin-neucookies",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeutrinosPlatform/cordova-plugin-neucookies.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "Konstantinos Tsanakas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NeutrinosPlatform/cordova-plugin-neucookies/issues"
+  },
+  "homepage": "https://github.com/NeutrinosPlatform/cordova-plugin-neucookies#readme"
+}
